@@ -1,0 +1,52 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body
+{
+    overflow: hidden;
+}
+
+.webgl
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+
+}
+.addvelo {
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    margin: 50px 50px;
+    background-color: #ffffff;
+}
+.reset {
+    top: 200px;
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    margin: 50px 50px;
+    background-color: #ffffff;
+}
+
+#stopwatch {
+    width: 200px;
+    height: 25px;
+    position: fixed;
+    background-color: #ffffff;
+    left: 50px;
+    top: 100px;
+}
+#go {
+    top: 250px;
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    margin: 50px 50px;
+    background-color: #ffffff;
+}
